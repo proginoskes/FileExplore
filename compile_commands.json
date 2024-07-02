@@ -1,0 +1,8 @@
+[{
+    "directory":"~/CodeProjects/Local/BrowserProj",
+    "arguments":["clang++","-std=c++17",
+        "-isystemC:\\Users\\kouck\\CodeProjects\\Local\\BrowserProject\\includes",
+        "src/Main.cpp","-o","Browser.exe"
+    ],
+    "file":"./src/Main.cpp"
+}]
